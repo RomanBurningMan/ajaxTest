@@ -1,7 +1,679 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e017f528-1efc-4d39-a2b6-e241ff70dab1" name="Default" comment="" />
+    <list default="true" id="e017f528-1efc-4d39-a2b6-e241ff70dab1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/test.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815135808.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815135939.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140021.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140107.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140209.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140411.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140506.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140606.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815140809.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815141012.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/photos/s_20040815141200.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample00.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/sample5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/times.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/s_20040815135808.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/s_20040815135939.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/autopager.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/compress.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/compress.phar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/gallery.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/ispager.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/phpinfo.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/text.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/hierarchy-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/icon-class-13x13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/icon-interface-13x13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/icon-trait-13x13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/grab.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/hand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/iviewer.rotate_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/iviewer.rotate_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_fit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_zero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/phpdoc-cache-2e/phpdoc-cache-settings.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/phpdoc-cache-66/phpdoc-cache-file_a55161f66a86fef6e379665611095064.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factory/ABaseScandir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factory/FilterFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factory/JpegFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factory/PngFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factory/scandir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/observer/DeliveryMail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/observer/IObservable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/observer/IObserver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/observer/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/observer/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/addcom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/catalog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/catalogs.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/checkboxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/click.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/comments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/comments.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/load.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/time.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ajax/users.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/array_multisort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/badplus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/for.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/foreach_copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/foreach_ref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/forkeys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/arrays/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/buildin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgi/getform.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/cookies.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/env.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/gif.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/post.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/postdecode.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/script.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/c/urldecode.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/multipart.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/cgiinside/postform.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/File/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/File/Logger0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/Math/Complex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/Math/Complex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/Math/Complex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/call.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/call1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/clone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/clone0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/cls.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/const.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/construct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/defined.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/destr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/destr0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/oldcons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/overload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/refcount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/serialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/text.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/tostring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/unserialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/user_serialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes/user_unserialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/closure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/dateinterval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/dateinterval_diff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/dateperiod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/datetime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/datetime_rss.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/datetime_set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/datetimezone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/dir1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/generator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/generator_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/next.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/rewind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/classes_php/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/items_range.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/languages.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/monolog/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/monolog/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/monolog/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/DirPager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/FilePager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/ItemsRange.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/Pager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/PagesList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/PdoPager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager/src/ISPager/View.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager_use/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager_use/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pager_use/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/pdo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/phinx/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/phinx/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/phinx/db/migrations/20151227101306_create_user_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/phinx/db/seeds/UsersSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/phinx/phinx.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/psysh/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/psysh/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/composer/psysh/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/curl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/headers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/time.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/curl/user_agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/date/calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/date/date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/date/gm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/date/microtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/date/strftime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/date/strtotime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/PHP/Exceptionizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/catchall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/destr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/er.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/error_catch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/finally.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/handler0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/iface/exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/iface/interfaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/iface/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/inherit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/seh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/stack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/submit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/tostring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/trace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/trigger_error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/w2e_hier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/except/w2e_simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/exec/dead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/exec/esc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/exec/popen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/bits.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/bits_pack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/bits_unpack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/bool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/boolinc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/dynamic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/eq.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/eqobj.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/exists.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/hardref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/if.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/objref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/var_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/warn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/expr/warnoff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/extensions/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/extensions/precision.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/extensions/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/counter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/csv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/file.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/file.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/glob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/ini.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/lock_ex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/lock_ex_cyclic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/lock_sh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/slashes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/textbin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/files/tree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/anonim_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/boolean_validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/callback_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/email_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/email_validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/encoded_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/filter_input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/filter_var.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/filter_var_array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/int_float_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/int_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/ip_validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/magic_quotes_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/range_validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/regexp_validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/filters/special_chars_sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/checkbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/cookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/dump.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/hello.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/ip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/lock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/forms/qs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/fpm/php-fpm.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/fpm/pool.d/example.com.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/fpm/pool.d/example.net.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/fpm/sites-available/example.com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/fpm/sites-available/example.net" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/anonim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/anpar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/byref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/byval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/call_user_func_array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/closure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/dumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/dumperEx.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/func_get_args.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/global.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/nested.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/retnull.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/retref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/speed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/stricttypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/toomanyargs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/types.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/unset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/varargs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/varargsold.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/func/virtual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/array_flip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/array_intersect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/array_reverse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/asort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/json_answer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/json_decode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/json_encode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/json_index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/json_index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/ksort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/merge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/natsort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/shuffle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/sort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/sort1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/uksort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/funcarr/usort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/lib/imagettf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/pen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/random.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/resample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/semitransp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/tile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/transparent.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/transparent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/gd/ttf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/collect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/combine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/combine_from.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/keys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/makerange_bad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/makerange_good.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/ref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/reject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/send.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/generators/yield.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/File/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/File/Logger/Debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/File/Logger/Debug0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/abstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/anonym.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/anonym_nested.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/final.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/ifacemulti.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/inherit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/inherit0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/inherit0cast.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/inherit_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/Cached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/CachedA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/Category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/News.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/PageA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/StaticPage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/cast.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/instanceof.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/pages/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/traits.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/traits_conflict.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/inherit/traits_inherit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/dowhile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/for.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/foreach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/goto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/ifelse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/require/foot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/require/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/require/script.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/trouble/aargh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/trouble/wlib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/trouble/xllib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/instruct/while.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/directory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/iter_fs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/iter_simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/lib/FS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/lib/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/limit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/recursion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/recursion_dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/iterators/size.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/attach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/lib/attach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/lib/mail_enc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/lib/mailenc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/lib/mailx.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/lib/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/mail.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/mail.php.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/mail_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/mail_simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mail/mail_x.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/math/largetextfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/math/mt_srand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/math/nan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/math/randline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/connect_multi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/delete_by_key.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/error_code.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/fetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/get_by_key.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/get_multi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/increment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/server_by_key.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/set_by_key.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/memcached/set_multi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/.my.cnf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/addnews.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/authors.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/auto.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/catalogs.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/connect_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/errors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/exec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/fetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/fetch_all.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/forums.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/multi_insert.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/my.cnf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/news.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/posts.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/prepare.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/pri.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/tbl.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/tbl_insert.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/tbl_order.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/themes.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/mysql/version.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/PHP7/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/PHP7/Seo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/PHP7/Tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/absolute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/anonim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/few.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/few_relative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/few_use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/namespace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/namespace_use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/spl_autoload_register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/namespace/wrong.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/context.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/socket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/net/wrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/nginx.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/sites-available/example.com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/sites-available/example.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/sites-available/example.io" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/sites-available/example.net" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/sites-available/example.org" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/templates/default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/nginx/templates/php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/Buffering/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/correct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/gz.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/gz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/handle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/linearize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/ob/objhandle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/create_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/eval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/lastmod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/mkfuncs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/sort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/sort_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/otherfuncs/sort_old.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/perm/fileperms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/perm/mtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/perm/text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/perm/typefile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/compress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/extract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/foreach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/gallery_phar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/gallery_use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/stub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/stub_use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phar/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpbasics/sq.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/PHP7/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docblock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/bootstrap-combined.no-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/jquery.iviewer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/Read Me.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/lte-ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/css/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/files/docblock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/files/docblock.php.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/graphs/class.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/custom-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/icon-class.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/icon-interface.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/images/icon-trait.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery.dotdotdot-1.5.9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery.dotdotdot-1.5.9.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery.iviewer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery.iviewer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/jquery.smooth-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/prism.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/js/ui/1.10.4/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/namespaces/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/reports/deprecated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/reports/errors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/phpdocs/phpdocs/docs/reports/markers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex02.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex03.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex04.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex05.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex06.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex07.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex08.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex09.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex10.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex11.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/ex12.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/grep.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/hsc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/largetextfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/match_all.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/replace_callback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/replace_callback_array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/translit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/preg/uniq.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/redirect/bad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/redirect/book.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/redirect/good.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/redirect/internal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/redirect/result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/impl_meth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/inst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/inst_refl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/lib/Complex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/rclass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/rdoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/rexcept.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/rext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/rfunc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/reflect/rinherit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/session/count.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/session/handlers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/codesniffer/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/codesniffer/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/indent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/interpolate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Cache/CacheItemInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Cache/CacheItemPoolInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/MessageInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/RequestInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/ResponseInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/ServerRequestInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/StreamInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/UploadedFileInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Http/Message/UriInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr/Log/LoggerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr1right.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr1wrong.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/psr2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/standarts/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/ascii.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/compare.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/htmlspecialchars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/str_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/strip_tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/strlen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/translit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/translit_utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/utf8crash.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/string/wordwrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/1/news.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/2/news.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/comp/component_gbook_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/comp/component_gbook_show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/comp/component_news_show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/comp/gbook.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/comp/model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/comp/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/gbook.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/passive/controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/passive/gbook.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/passive/view.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/mvc/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/template/news.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/upload/album.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/upload/complex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/upload/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/vagrant/Vagrantfile01" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/vagrant/Vagrantfile02" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/vagrant/Vagrantfile03" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/vagrant/Vagrantfile04" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/getallheaders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/lib/http_build_url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/lib/nocache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/modify_url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/parse_str.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/parse_url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/www/sillycount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/attributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/attributes_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/build.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/count.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/enclosure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/news.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/read.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php7-master/xml/xpath.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ajax.iml" afterPath="$PROJECT_DIR$/.idea/ajax.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax.js" afterPath="$PROJECT_DIR$/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax.php" afterPath="$PROJECT_DIR$/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,49 +681,127 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="tasks" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="users" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ajax" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ajax.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FilterFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factory/FilterFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
+                <element signature="e#221#247#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+      <file leaf-file-name="DeliveryMail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/observer/DeliveryMail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="419">
+              <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajax.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ajax.php">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JpegFilter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factory/JpegFilter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scandir.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factory/scandir.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IObserver.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/IObserver.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IObservable.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/IObservable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,6 +816,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>us</find>
+      <find>use</find>
+      <find>use</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -74,24 +831,79 @@
       <list>
         <option value="$PROJECT_DIR$/css.css" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/ajax.php" />
         <option value="$PROJECT_DIR$/ajax.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/87a34f08-6c5f-4e4e-90c0-e90137caf4cb/console_1.sql" />
+        <option value="$PROJECT_DIR$/ajax.php" />
+        <option value="$PROJECT_DIR$/php7-master/classes/construct.php" />
+        <option value="$PROJECT_DIR$/php7-master/classes/static.php" />
+        <option value="$PROJECT_DIR$/php7-master/classes/const.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/factory/ABaseScandir.php" />
+        <option value="$PROJECT_DIR$/factory/ScandirFactory.php" />
+        <option value="$PROJECT_DIR$/factory/JpegFilter.php" />
+        <option value="$PROJECT_DIR$/factory/PngFilter.php" />
+        <option value="$PROJECT_DIR$/factory/scandir.php" />
+        <option value="$PROJECT_DIR$/factory/FilterFactory.php" />
+        <option value="$PROJECT_DIR$/observer/IObservable.php" />
+        <option value="$PROJECT_DIR$/observer/IObserver.php" />
+        <option value="$PROJECT_DIR$/observer/User.php" />
+        <option value="$PROJECT_DIR$/observer/main.php" />
+        <option value="$PROJECT_DIR$/observer/DeliveryMail.php" />
       </list>
     </option>
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="6b3f974c-c632-466b-b2b2-87412b0d1a1c" name="Test" port="7889" use_path_mappings="true" />
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -107,7 +919,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,19 +941,42 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="i" />
+              <option name="myItemId" value="observer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factory" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +990,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Remote Debug.Test">
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ajax/index.php">
+      <method />
+    </configuration>
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
       <PhpTestRunnerSettings />
       <method />
@@ -191,11 +1028,20 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
       <PhpTestRunnerSettings />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -218,6 +1064,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="Test" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" singleton="true" server_name="Test" session_id="VVVDEBUG">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Remote Debug.Test" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -229,7 +1087,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519671018937</updated>
-      <workItem from="1519671020409" duration="8027000" />
+      <workItem from="1519671020409" duration="8248000" />
+      <workItem from="1520887295589" duration="1749000" />
+      <workItem from="1521489024889" duration="1253000" />
+      <workItem from="1521575552653" duration="4176000" />
+      <workItem from="1521749885535" duration="1895000" />
+      <workItem from="1522092076984" duration="1416000" />
+      <workItem from="1522181601023" duration="8000" />
+      <workItem from="1522181644087" duration="909000" />
+      <workItem from="1522786830788" duration="2251000" />
+      <workItem from="1528451440066" duration="14098000" />
+      <workItem from="1528828056638" duration="3699000" />
     </task>
     <task id="LOCAL-00001" summary="some test for ajax loading img">
       <created>1519679522540</created>
@@ -242,27 +1110,39 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8027000" />
+    <option name="totallyTimeSpent" value="39702000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13467048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16404012" sideWeight="0.48598132" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1747851" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3955224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31094527" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.254298" sideWeight="0.5140187" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -281,6 +1161,85 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="15" lean-forward="false" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="39" selection-end-column="11" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/i/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -291,39 +1250,284 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/87a34f08-6c5f-4e4e-90c0-e90137caf4cb/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/87a34f08-6c5f-4e4e-90c0-e90137caf4cb/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/gd/lib/imagettf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/headers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/time.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/Math/Complex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/Math/Complex1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/tostring.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/user_agent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/curl/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/oldcons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/construct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/destr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/File/Logger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/File/Logger0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/const.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php7-master/classes/defined.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i/download.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/ScandirFactory.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="30" />
           <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#6#91#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/ABaseScandir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/PngFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/FilterFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/IObservable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/scandir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/JpegFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/IObserver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#221#247#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/DeliveryMail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
